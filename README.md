@@ -48,8 +48,8 @@ Copy
 Edit
 python flappy_bird.py
 📸 Screenshots
-[Game Loading Screen](/images/message.png)
-[Game Screen]([images/game%20ss.png))
+![Game Loading Screen](/images/message.png)
+![Game Screen]([images/game%20ss.png))
 
 
 
