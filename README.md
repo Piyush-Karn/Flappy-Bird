@@ -49,7 +49,4 @@ Edit
 python flappy_bird.py
 📸 Screenshots
 ![Game Loading Screen](/images/message.png)
-![Game Screen]([images/game%20ss.png))
-
-
-
+![Game Screen](https://github.com/Piyush-Karn/Flappy-Bird/blob/b221c0e9fcb48fb1c74d48cc6326071f1c598882/images/game%20ss.png)
